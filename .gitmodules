@@ -1,3 +1,9 @@
 [submodule "apps/growth-chart"]
 	path = apps/growth-chart
 	url = https://github.com/icoe-labs/growth-chart
+[submodule "apps/bp-centiles"]
+	path = apps/bp-centiles
+	url = https://github.com/icoe-labs/bp-centiles
+[submodule "apps/cardiac-risk"]
+	path = apps/cardiac-risk
+	url = https://github.com/icoe-labs/cardiac-risk
