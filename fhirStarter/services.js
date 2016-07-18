@@ -2,10 +2,6 @@ angular.module('fhirStarter').factory('fhirSettings', function($rootScope, oauth
 
   var servers = [
   {
-      name: 'Jelastic Grails Server-no proxy',
-      serviceUrl: 'http://node10150-icoe-fhir-grails-server.dal.jelastic.vps-host.net/fhir'
-    },
-    {
       name: 'Cloudhub Proxy Jelastic GRAILS FHIR Server',
       serviceUrl: 'http://icoe-smart-fhir-jelastic-server.cloudhub.io'
     }, {
