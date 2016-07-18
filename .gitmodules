@@ -1,0 +1,3 @@
+[submodule "apps/growth-chart"]
+	path = apps/growth-chart
+	url = https://github.com/icoe-labs/growth-chart
